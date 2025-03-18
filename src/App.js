@@ -128,6 +128,7 @@ function App() {
         headers: {
           'Content-Type': 'application/json'
         },
+        mode: 'cors', // これを明示的に指定
         body: JSON.stringify(requestData)
       });
       

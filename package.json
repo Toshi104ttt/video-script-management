@@ -1,5 +1,6 @@
 {
   "name": "script-management-app",
+  "homepage": "https://toshi104ttt.github.io/video-script-management",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

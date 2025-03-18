@@ -2,7 +2,7 @@ import React, { useState, useEffect, useMemo } from 'react';
 import { PlusCircle, Trash2, CheckCircle, Clock, AlertCircle, PlusSquare, FileText, Edit } from 'lucide-react';
 
 // ダミーデータを使うかどうかのフラグ
-const useDummyData = true
+const useDummyData = false
 
 // GASのWebアプリURL - 必ず正確なURLに置き換えてください
 const GAS_API_URL = 'https://script.google.com/macros/s/AKfycbynuBfCV2F9OvLGplL6tLByGKkmfLrHlY7BtOKGh-31E7qSL-k-F4_P0vNSr598Uu62/exec'
